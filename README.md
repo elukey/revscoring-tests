@@ -1,12 +1,12 @@
-=== Why ===
+### Why
 
 Running Wikimedia's revscoring on Debian Bullseye+ requires some tweaking, and having it in a Dockerfile helps while debugging issues.
 
-=== Prerequisites ===
+### Prerequisites
 
-The revscoring model binary can be fetched from [https://analytics.wikimedia.org/published/wmf-ml-models/|this link].
+The revscoring model binary can be fetched from [https://analytics.wikimedia.org/published/wmf-ml-models/](this link).
 
-=== How ===
+### How
 
 ```
 docker-build .
