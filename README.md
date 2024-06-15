@@ -4,7 +4,7 @@ Running Wikimedia's revscoring on Debian Bullseye+ requires some tweaking, and h
 
 ### Prerequisites
 
-The revscoring model binary can be fetched from [https://analytics.wikimedia.org/published/wmf-ml-models/](this link).
+The revscoring model binary can be fetched from (this link)[https://analytics.wikimedia.org/published/wmf-ml-models/].
 
 ### How
 
